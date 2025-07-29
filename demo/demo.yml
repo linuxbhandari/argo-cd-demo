@@ -18,7 +18,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: docker.io/nginx:1.50
+      - image: docker.io/nginx:1.19
         name: nginx
         resources: {}
 status: {}
