@@ -13,4 +13,4 @@ spec:
   storageClassName: nfs-storage
   nfs:
     server: kube-master
-    path: /nfs-share
+    path: /nfs-share/prometheus-data
