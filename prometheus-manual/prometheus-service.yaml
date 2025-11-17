@@ -11,4 +11,4 @@ spec:
       nodePort: 30090
   selector:
     app: prometheus
-  type: LoadBalancer
+  type: NodePort
